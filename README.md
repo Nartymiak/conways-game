@@ -1,4 +1,6 @@
 # conways-game
+Conway's game of life
+
 The universe is a finite twodimensional grid of square cells (square matrix).
 Each cell has 2 possible states, alive or dead. Every cell interacts with its neighbors, which are the cells that are horizontally, vertically, or diagonally adjacent. Therefore, a cell can have up to eight neighbors.
 At each step in time, the following transitions occur: 
